@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-emoji-cursor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gatsby plugin to add emjois which trail behind your cursor",
   "main": "index.js",
   "scripts": {
