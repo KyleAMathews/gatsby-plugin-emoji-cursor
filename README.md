@@ -21,7 +21,7 @@ plugins: [
     resolve: `gatsby-plugin-emoji-cursor`,
    // These are the default options.
     options: {
-      emoji: [`🐖`]
+      emoji: [`🐖`],
       fontSize: `80px`,
     },
   }
